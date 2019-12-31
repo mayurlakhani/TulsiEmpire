@@ -5,14 +5,16 @@
       "title": "FreeWebsiteByTulsi",
       "url": "https://play.google.com/store/apps/details?id=com.topmostlatesttechnologies.myapplication",
       "poster":"https://mayur.solid.community/public//FreeWebsiteByTulsi.png",
-      "Category": "Blogs"
+      "Category": "Blogs",
+      "lang":"En"
     },
     {
       "id": 2,
       "title": "HDWallByTulsi",
       "url": "https://play.google.com/store/apps/details?id=com.tulsiEmpire.hdwall",
       "poster":"https://mayur.solid.community/public/hdwallbytulsi.png",
-      "Category": "HD Photos & Wallpaper"
+      "Category": "HD Photos & Wallpaper",
+      "lang":"En"
     }
   ],
   "comments": [
