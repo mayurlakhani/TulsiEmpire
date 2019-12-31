@@ -20,7 +20,7 @@
       "id": 3,
       "title": "wallapp",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.wallapp",
-      "poster":"wallapp.png",
+      "poster":"./wallapp.png",
       "Category": "HD Photos & Wallpaper",
       "lang":"En"
     }
