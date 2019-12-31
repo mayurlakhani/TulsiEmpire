@@ -4,7 +4,7 @@
       "id": 1,
       "title": "FreeWebsiteByTulsi",
       "url": "https://play.google.com/store/apps/details?id=com.topmostlatesttechnologies.myapplication",
-      "poster":"https://mayur.solid.community/public//FreeWebsiteByTulsi.png",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/FreeWebsiteByTulsi.png",
       "Category": "Blogs",
       "lang":"En"
     },
@@ -12,32 +12,18 @@
       "id": 2,
       "title": "HDWallByTulsi",
       "url": "https://play.google.com/store/apps/details?id=com.tulsiEmpire.hdwall",
-      "poster":"https://mayur.solid.community/public/hdwallbytulsi.png",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/hdwallbytulsi.png",
       "Category": "HD Photos & Wallpaper",
       "lang":"En"
     },
      {
       "id": 3,
-      "title": "wallapp",
+      "title": "WallApp",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.wallapp",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/e918e8b3367234fb58e3feacd0a5af265b5512e4/wallapp.png",
       "Category": "HD Photos & Wallpaper",
       "lang":"En"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+ 
 }
