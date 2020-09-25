@@ -8,22 +8,21 @@
       "Category": "Blogs",
       "lang":"En"
     },
-    {
-      "id": 2,
-      "title": "HDWallByTulsi",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsiEmpire.hdwall",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/hdwallbytulsi.png",
-      "Category": "HD Photos & Wallpaper",
-      "lang":"En"
-    },
      {
-      "id": 3,
+      "id": 2,
       "title": "khataTodo",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.khatatodo",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/khataTodoposter.png",
       "Category": "Todo App && Notes",
       "lang":"En"
-    }
+    },{
+      "id": 3,
+      "title": "EventsCalendar20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsiEmpire.eventscalendar20",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/hdwallbytulsi.png",
+      "Category": "Event Management & Calendar",
+      "lang":"En"
+    },
   ]
  
 }
