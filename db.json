@@ -31,6 +31,14 @@
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsTimeline20.png",
       "Category": "Event Management & Project Mangement & TimeLine",
       "lang":"En"
+    },  
+    {
+      "id": 5,
+      "title": "QRBarCode20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.qrbar2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrbarcode2020.png",
+      "Category": "Event Management & Project Mangement & TimeLine",
+      "lang":"En"
     }
   ]
 }
