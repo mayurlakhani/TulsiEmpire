@@ -39,6 +39,14 @@
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrbarcode2020.png",
       "Category": "Event Management & Project Mangement & TimeLine",
       "lang":"En"
+    },
+    {
+      "id": 6,
+      "title": "Todo2020",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.todo2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/Todo2020.png",
+      "Category": "Todo List",
+      "lang":"En"
     }
   ]
 }
