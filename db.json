@@ -47,6 +47,14 @@
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/Todo2020.png",
       "Category": "Todo List",
       "lang":"En"
+    },
+    {
+      "id": 7,
+      "title": "Voice Recognizer 2020",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.voiceRecognizer2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/voicerecog.png",
+      "Category": "Todo List & Voice to Text & Text to Voice",
+      "lang":"En"
     }
   ]
 }
