@@ -55,6 +55,14 @@
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/voicerecog.png",
       "Category": "Todo List & Voice to Text & Text to Voice",
       "lang":"En"
+    },
+     {
+      "id": 8,
+      "title": "Social Marketing 2021",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.socialmarketing2021",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/socialmarketing.png",
+      "Category": "Social Marketing",
+      "lang":"En"
     }
   ]
 }
