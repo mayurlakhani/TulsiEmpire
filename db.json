@@ -1,47 +1,23 @@
 {
   "Apps": [
-    {
-      "id": 1,
-      "title": "FreeWebsiteByTulsi",
-      "url": "https://play.google.com/store/apps/details?id=com.topmostlatesttechnologies.myapplication",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/FreeWebsiteByTulsi.png",
-      "Category": "Blogs",
-      "lang":"En"
-    },
      {
-      "id": 2,
+      "id": 1,
       "title": "khataTodo",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.khatatodo",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/khataTodoposter.png",
       "Category": "Todo App && Notes",
       "lang":"En"
+    }, 
+     {
+      "id": 2,
+      "title": "VoiceRecognizer2020",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.voicerecognizer2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/voicerecog.png",
+      "Category": "Todo List & Voice to Text & Text to Voice",
+      "lang":"En"
     },
     {
       "id": 3,
-      "title": "EventsCalendar20",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventscalendar20",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsCal20.png",
-      "Category": "Event Management & Calendar",
-      "lang":"En"
-    },
-    {
-      "id": 4,
-      "title": "EventsTimeLine20",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventtimeline",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsTimeline20.png",
-      "Category": "Event Management & Project Mangement & TimeLine",
-      "lang":"En"
-    },  
-    {
-      "id": 5,
-      "title": "QRBarCode20",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.qrbar2020",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrbarcode2020.png",
-      "Category": "Event Management & Project Mangement & TimeLine",
-      "lang":"En"
-    },
-    {
-      "id": 6,
       "title": "Todo2020",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.todo2020",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/Todo2020.png",
@@ -49,20 +25,52 @@
       "lang":"En"
     },
     {
-      "id": 7,
-      "title": "Voice Recognizer 2020",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.voicerecognizer2020",
-      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/voicerecog.png",
-      "Category": "Todo List & Voice to Text & Text to Voice",
-      "lang":"En"
-    },
-     {
-      "id": 8,
-      "title": "Social Marketing 2021",
+      "id": 4,
+      "title": "SocialMarketing2021",
       "url": "https://play.google.com/store/apps/details?id=com.tulsi.socialmarketing2021",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/socialmarketing.png",
       "Category": "Social Marketing",
       "lang":"En"
-    }
+    },
+    {
+      "id": 5,
+      "title": "EventsCalendar20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventscalendar20",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsCal20.png",
+      "Category": "Event Management & Calendar",
+      "lang":"En"
+    },
+    {
+      "id": 6,
+      "title": "EventsTimeLine20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventtimeline",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsTimeline20.png",
+      "Category": "Event Management & Project Mangement & TimeLine",
+      "lang":"En"
+    }, 
+    {
+      "id": 7,
+      "title": "ProjectTimeline",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.projecttimeline",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/protime.png",
+      "Category": "Task Todo List & Project Management & Timeline",
+      "lang":"En"
+    },
+    {
+      "id": 8,
+      "title": "QRBarCode20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.qrbar2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrbarcode2020.png",
+      "Category": "Event Management & Project Mangement & TimeLine",
+      "lang":"En"
+    },
+    {
+      "id": 9,
+      "title": "QRScanStore20",
+      "url": "https://play.google.com/store/apps/details?id=com.tulsi.voicerecognizer2020",
+      "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrscanstore.png",
+      "Category": "QR,Barcode Maker & scanner",
+      "lang":"En"
+    } 
   ]
 }
