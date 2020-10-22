@@ -2,8 +2,9 @@
   "Apps": [
      {
       "id": 1,
-      "title": "khata Todo",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.khatatodo",
+      "title": "khata todo",
+      "uri":"https://play.google.com/store/apps/details?id=com.tulsi.khatatodo",
+      "url": "https://play.google.com/store/search",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/khataTodoposter.png",
       "Category": "Todo App && Notes",
       "lang":"En"
@@ -11,7 +12,8 @@
      {
       "id": 2,
       "title": "Voice Recognizer",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.voicerecognizer2020",
+       "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.voicerecognizer2020",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/voicerecog.png",
       "Category": "Todo List & Voice to Text & Text to Voice",
       "lang":"En"
@@ -19,15 +21,17 @@
     {
       "id": 3,
       "title": "Todos List",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.todo2020",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.todo2020",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/Todo2020.png",
       "Category": "Todo List",
       "lang":"En"
     },
     {
       "id": 4,
-      "title": "Social Marketing 2021",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.socialmarketing2021",
+      "title": "Social Marketing (2021)",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.socialmarketing2021",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/socialmarketing.png",
       "Category": "Social Marketing",
       "lang":"En"
@@ -35,23 +39,26 @@
     {
       "id": 5,
       "title": "Events Calendar",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventscalendar20",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.eventscalendar20",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsCal20.png",
       "Category": "Event Management & Calendar",
       "lang":"En"
     },
     {
       "id": 6,
-      "title": "Event TimeLine",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.eventtimeline",
+      "title": "Event Planner (TimeLine)",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.eventtimeline",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/EventsTimeline20.png",
       "Category": "Event Management & Project Mangement & TimeLine",
       "lang":"En"
     }, 
     {
       "id": 7,
-      "title": "Project Management(Timeline)",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.projecttimeline",
+      "title": "Project Management (Timeline)",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.projecttimeline",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/protime.png",
       "Category": "Task Todo List & Project Management & Timeline",
       "lang":"En"
@@ -59,15 +66,17 @@
     {
       "id": 8,
       "title": "QR,BarCode Scanner & Readear",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.qrbar2020",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.qrbar2020",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrbarcode2020.png",
       "Category": "Event Management & Project Mangement & TimeLine",
       "lang":"En"
     },
     {
       "id": 9,
-      "title": "QR Scan Store",
-      "url": "https://play.google.com/store/apps/details?id=com.tulsi.qrscanstore20",
+      "title": "QR, Barcode Reader, Generator & Store",
+      "url": "https://play.google.com/store/search",
+      "uri": "https://play.google.com/store/apps/details?id=com.tulsi.qrscanstore20",
       "poster":"https://github.com/mayurlakhani/TulsiEmpire/raw/master/qrscanstore.png",
       "Category": "QR,Barcode Maker & scanner",
       "lang":"En"
